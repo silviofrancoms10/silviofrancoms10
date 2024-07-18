@@ -25,5 +25,6 @@
   <img allign="center" alt="kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img allign="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
   <img allign="center" alt="swagger" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-
 </div>
+<hr>
+ <h3><a href="https://linkedin.com/in/silvioafranco">LinkedIn</a></h3>
