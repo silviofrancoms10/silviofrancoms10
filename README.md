@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as Full-Stack
+- 🔭 I’m currently learning deeply Flutter and Golang
 - 🌱 Ask me about Java, Spring, Kotlin
 - 📫 Contact me on email silviofrancoms@gmail.com || silvio.franco@ufms.br
 - ⚡ Curious fact: I developed the Transparency Portal to show how public money is spend 👉 <a href="https://github.com/silviofrancoms10/dpge-transparencia">Transparency Portal</a>
@@ -14,12 +14,12 @@
 
 <div style="display: inline_block"><br>
   <img allign="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img allign="center" alt="Golang" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img allign="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img allign="center" alt="Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img allign="center" alt="android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
-  <img allign="center" alt="kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img allign="center" alt="Kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img allign="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
-  <img allign="center" alt="swagger" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  <img allign="center" alt="Swagger" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 </div>
 <hr>
  <h3><a href="https://linkedin.com/in/silvioafranco">LinkedIn</a></h3>
