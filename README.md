@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently learning deeply Java with AI
 - 📫 Contact me on email silviofrancoms@gmail.com || silvio.franco@ufms.br
+- Let's conect on LinkedIn: 
+<h3><a href="https://linkedin.com/in/silvioafranco">LinkedIn</a></h3>
 
 <div>
   <a href="https://github.com/silviofrancoms10">
@@ -17,5 +19,3 @@
   <img allign="center" alt="Junit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
   <img allign="center" alt="Swagger" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 </div>
-<hr>
- <h3><a href="https://linkedin.com/in/silvioafranco">LinkedIn</a></h3>
