@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently learning deeply Flutter
+- 🔭 I’m currently learning deeply Java with AI
 - 📫 Contact me on email silviofrancoms@gmail.com || silvio.franco@ufms.br
-- ⚡ Curious fact: I developed the Transparency Portal to show how public money is spend 👉 <a href="https://github.com/silviofrancoms10/dpge-transparencia">Transparency Portal</a>
-- 👌 My main commits are private in Azure DevOps, on github just for study pruppose only
 
 <div>
   <a href="https://github.com/silviofrancoms10">
